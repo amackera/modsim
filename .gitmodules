@@ -1,0 +1,3 @@
+[submodule "ModSimPy"]
+	path = ModSimPy
+	url = git@github.com:amackera/ModSimPy.git
